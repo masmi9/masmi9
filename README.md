@@ -19,7 +19,7 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 ## 🧠 Skills
 
 - Application Penetration Testing
-- Mobile & Web App Security (OWASP Top 10, MASVS)
+- Mobile & Web App Security Testing (OWASP Top 10, MASVS, MSTG)
 - Threat Modeling
 - Secure Code Review
 - Vulnerability Assessment & Management
@@ -34,24 +34,22 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 - [x] **CEH** – Certified Ethical Hacker (EC-Council)
 - [x] **Foundation Level Cyber Threat Intelligence** – arcX
+- [x] **Semgrep & CodeQL Mastery** – Custom rule development, taint tracking, CI integration as well as deep static analysis query design implementation
 
 ---
 
 ### 🔹 Short-Term Goals (0–6 Months)
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
-- [ ] **PWPA** – TCM Security's Practical Web Pentest Associate
-- [ ] **Semgrep Mastery** – Custom rule development, taint tracking, CI integration
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
-- [ ] **CodeQL Mastery** – Deep static analysis query design (Java, Python, JS)
+- [ ] **PWPA** – TCM Security's Practical Web Pentest Associate
 
 ---
 
 ### 🔹 Mid-Term Goals (6–18 Months)
 
 - [ ] **CRTO** – Certified Red Team Operator (Advanced C2, AD post-exploitation)
-- [ ] **Semgrep Pro Rules (Advanced)** *(optional)* – Expert SAST and taint logic development
-- [ ] **CodeQL Advanced Querying** *(optional)* – Enterprise-grade code vulnerability modeling
+- [ ] **CDP** - Certified DevSecOps Professional (Advanced CI/CD hardening -- Jenkins focused)
 
 ---
 
@@ -65,8 +63,8 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ## 🎯 Focus Areas
 
-| Domain                      | Certifications                                            |
-|----------------------------|------------------------------------------------------------|
+| Domain                     | Certifications                                            |
+|----------------------------|-----------------------------------------------------------|
 | **Mobile Security**        | PMPA                                                      |
 | **Web App Security**       | PWPA, Semgrep                                             |
 | **Security Automation**    | Semgrep, CodeQL, GHAS                                     |
