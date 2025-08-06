@@ -1,4 +1,4 @@
-# 🛡️ Malik Monte Smith
+# 🛡️ Malik Smith
 
 ![Profile Picture](https://raw.githubusercontent.com/masmi9/masmi9/main/hacker.jpg)
 
