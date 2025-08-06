@@ -1,6 +1,6 @@
 # 🛡️ Malik Monte Smith
 
-![Profile Picture](profile-picture.jpg)
+![Profile Picture](https://raw.githubusercontent.com/masmi9/masmi9/main/hacker.jpg)
 
 **Application Security Tester @ OnDefend**  
 
