@@ -3,13 +3,12 @@
 ![Profile Picture](profile-picture.jpg)
 
 **Application Security Tester @ OnDefend**  
-[LinkedIn: malik-monte-smith-engineer](https://www.linkedin.com/in/malik-monte-smith-engineer/)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m Malik Monte Smith, an Application Security Engineer & Tester at OnDefend with a strong focus on mobile and web application security, threat modeling, and secure DevSecOps automation. I specialize in identifying, exploiting, and remediating security weaknesses across complex systems — all while building scalable, automated pipelines for proactive defense.
+I’m Malik Smith, an Application Security Engineer & Tester with a strong focus on mobile and web application security, threat modeling, and secure DevSecOps automation. I specialize in identifying, exploiting, and remediating security weaknesses across complex systems — all while building scalable, automated pipelines for proactive defense.
 
 With a foundation rooted in ethical hacking and hands-on penetration testing, I’ve expanded my expertise into custom SAST/DAST tooling, CI/CD integration, and real-world exploit simulation. My work includes projects like MobileMorph (an automated mobile app security framework) and BluJay (a custom static analysis engine), demonstrating my commitment to combining offensive knowledge with security engineering.
 
@@ -40,8 +39,8 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### 🔹 Short-Term Goals (0–6 Months)
 
-- [ ] **PMPA** – Practical Mobile Pentest Associate *(in progress)*
-- [ ] **PWPA** – Practical Web Pentest Associate (TCM Security)
+- [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **PWPA** – TCM Security's Practical Web Pentest Associate
 - [ ] **Semgrep Mastery** – Custom rule development, taint tracking, CI integration
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
 - [ ] **CodeQL Mastery** – Deep static analysis query design (Java, Python, JS)
