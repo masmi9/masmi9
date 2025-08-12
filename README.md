@@ -42,7 +42,6 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
-- [ ] **PWPA** – TCM Security's Practical Web Pentest Associate
 
 ---
 
@@ -67,10 +66,11 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 | Domain                     | Certifications                                            |
 |----------------------------|-----------------------------------------------------------|
 | **Mobile Security**        | PMPA                                                      |
-| **Web App Security**       | PWPA, Semgrep                                             |
+| **Web App Security**       | Semgrep, CodeQL                                           |
 | **Security Automation**    | Semgrep, CodeQL, GHAS                                     |
-| **CI/CD DevSecOps**        | Semgrep, CodeQL, GHAS                                     |
-| **Red Teaming Techniques** | CRTO                                                      |
+| **CI/CD DevSecOps**        | CDP, GHAS                                                 |
+| **Red Team & Post-Exploit**| CRTeamer                                                  |
+| **AI/ML App Security**     | C-AI/MLPen                                                |
 | **Threat Intelligence**    | arcX CTI Foundation                                       |
 | **AppSec Leadership**      | CISSP (future)                                            |
 
