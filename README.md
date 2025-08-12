@@ -48,7 +48,8 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### 🔹 Mid-Term Goals (6–18 Months)
 
-- [ ] **CRTO** – Certified Red Team Operator (Advanced C2, AD post-exploitation)
+- [ ] **CRTeamer** – The SecOps Group Certified Red Team (Advanced C2, AD post-exploitation)
+- [ ] **C-AI/MLPen** – The SecOps Group Certified AI/ML Pentester (AI/ML security testing again LLMs)
 - [ ] **CDP** - Certified DevSecOps Professional (Advanced CI/CD hardening -- Jenkins focused)
 
 ---
