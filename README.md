@@ -12,19 +12,19 @@ I’m Malik Smith, an Application Security Engineer & Tester with a strong focus
 
 With a foundation rooted in ethical hacking and hands-on penetration testing, I’ve expanded my expertise into custom SAST/DAST tooling, CI/CD integration, and real-world exploit simulation. My work includes projects like MobileMorph (an automated mobile app security framework) and BluJay (a custom static analysis engine), demonstrating my commitment to combining offensive knowledge with security engineering.
 
-Driven by a continuous pursuit of mastery, I’m currently advancing through certifications such as PMPA, PWPA, and CRTO, with long-term goals of achieving CISSP and shaping security programs at the leadership level. As both a technologist and future CISO, I aim to bridge the gap between code, automation, and strategic security.
+Driven by a continuous pursuit of mastery, I’m currently advancing through certifications such as PMPA and CRTeamer, with long-term goals of achieving CISSP and shaping security programs at the leadership level. I'm also looking to credential myself within the largest growing technology, Artificial Intelligence and Machine Learning, through the C-AI/MLPen certification. As both a technologist and future CISO, I aim to bridge the gap between code, automation, and strategic security.
 
 ---
 
 ## 🧠 Skills
 
-- Application Penetration Testing
-- Mobile & Web App Security Testing (OWASP Top 10, MASVS, MSTG)
-- Threat Modeling
 - Secure Code Review
 - Vulnerability Assessment & Management
-- DevSecOps & CI/CD Integration
+- Threat Modeling
 - Security Automation (Semgrep, CodeQL, GitHub Actions)
+- DevSecOps & CI/CD Integration
+- Application Penetration Testing: Mobile & Web App (OWASP Top 10, MASVS, MSTG)
+- AI/ML Development & Security
 
 ---
 
