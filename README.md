@@ -42,6 +42,7 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
+- [ ] **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
 
 ---
 
