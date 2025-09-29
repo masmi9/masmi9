@@ -42,23 +42,32 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
-- [ ] **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
+*By end of 2025: Mobile pentesting + DevSecOps (GitHub) authority.*
 
 ---
 
-### 🔹 Mid-Term Goals (6–18 Months)
+### 🔹 (2026) Mid-Term Goals 
 
-- [ ] **CRTeamer** – The SecOps Group Certified Red Team (Advanced C2, AD post-exploitation)
-- [ ] **C-AI/MLPen** – The SecOps Group Certified AI/ML Pentester (AI/ML security testing again LLMs)
-- [ ] **CDP** - Certified DevSecOps Professional (Advanced CI/CD hardening -- Jenkins focused)
+- [ ] **Q1 2026** **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
+- [ ] **Q3 2026** **CISM** -  Certified Information Security Manager (ISACA)
+- [ ] **Q4 2026 (Optional)** **CISSP** – Certified Information Systems Security Professional (ISC²)
+
+*By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
 
 ### 🔹 Long-Term Goals (18–36 Months)
 
-- [ ] **CISSP** – Certified Information Systems Security Professional (ISC²)
-  - *Leadership, security architecture, governance, and risk*
-- [ ] **OSCP** *(Optional)* – Offensive Security Certified Professional (for deep exploit mastery)
+- [ ] **Q2 2027** **OSCP** *(Optional)* – Offensive Security Certified Professional (for deep exploit mastery)
+*By mid-2027: Deep exploit mastery + leadership credibility = ready for Principal Pentester or Consultancy Lead.*
+
+---
+
+## 📅 Education Milestone (before 2030)
+- **MBA in Cybersecurity / Technology Management**  
+   - Focus on leadership, finance, governance, and scaling security programs.  
+   - Complements technical certifications (OSCP, CISSP, PMPA) with **executive-level business acumen**.  
+*By 2028: MBA + CISSP + OSCP → Strong foundation for CISO track and consultancy growth.*  
 
 ---
 
@@ -70,10 +79,10 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 | **Web App Security**       | Semgrep, CodeQL                                           |
 | **Security Automation**    | Semgrep, CodeQL, GHAS                                     |
 | **CI/CD DevSecOps**        | CDP, GHAS                                                 |
-| **Red Team & Post-Exploit**| CRTeamer                                                  |
-| **AI/ML App Security**     | C-AI/MLPen                                                |
 | **Threat Intelligence**    | arcX CTI Foundation                                       |
-| **AppSec Leadership**      | CISSP (future)                                            |
+| **AppSec Leadership**      | CISM, CISSP (future)                                      |
+| **Exploit Mastery**        | OSCP                                                      |
+| **Business & Strategy**    | MBA in Cybersecurity Management                           |
 
 ---
 
