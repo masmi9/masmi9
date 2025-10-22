@@ -48,8 +48,8 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### 🔹 (2026) Mid-Term Goals 
 
-- [ ] **Q1 2026** **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
-- [ ] **Q3 2026** **CISM** -  Certified Information Security Manager (ISACA)
+- [ ] **Q1 2026** **CISM** -  Certified Information Security Manager (ISACA)
+- [ ] **Q3 2026** **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
 - [ ] **Q4 2026 (Optional)** **CISSP** – Certified Information Systems Security Professional (ISC²)
 
 *By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
