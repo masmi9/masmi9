@@ -38,32 +38,31 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ---
 
-### 🔹 Short-Term Goals (0–6 Months)
+### 🔹 Short-Term Goals (Before June 2026)
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
-*By end of 2025: Mobile pentesting + DevSecOps (GitHub) authority.*
+- [ ] **PAPA** – TCM Security's Practical AI Pentest Associate
 
 ---
 
-### 🔹 (2026) Mid-Term Goals 
+### 🔹 Mid-Term Goals (Before December 2026)
 
-- [ ] **Q1 2026** **CISM** -  Certified Information Security Manager (ISACA)
-- [ ] **Q3 2026** **GitLab Certified Security Specialist** - configure GitLab security end-to-end: describe features, set MR approvers, enable/configure scanners & MR approvals, use Security Dashboards, export results for compliance, configure defenses, test performance & inspect logs.
-- [ ] **Q4 2026 (Optional)** **CISSP** – Certified Information Systems Security Professional (ISC²)
-
+- [ ] **Q2-Q3 2026 (Optional)** **CISSP** – Certified Information Systems Security Professional (ISC²)
 *By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
 
-### 🔹 Long-Term Goals (18–36 Months)
+### 🔹 Long-Term Goals (Before 2030)
 
-- [ ] **Q2 2027** **OSCP** *(Optional)* – Offensive Security Certified Professional (for deep exploit mastery)
-*By mid-2027: Deep exploit mastery + leadership credibility = ready for Principal Pentester or Consultancy Lead.*
+- [ ] **Q1 2027** **CDP** *(Optional)* – Certified DevSecOps Professional (for CI/CD pipeline configuration mastery)
+- [ ] **Q3 2027** **OSCP** *(Optional)* – Offensive Security Certified Professional (for deep exploit mastery)
+*By mid-2027: Deep exploit mastery + leadership credibility = ready for Principal Pentester or Consultancy Manager/Lead.*
 
 ---
 
 ## 📅 Education Milestone (before 2030)
+
 - **MBA in Cybersecurity / Technology Management**  
    - Focus on leadership, finance, governance, and scaling security programs.  
    - Complements technical certifications (OSCP, CISSP, PMPA) with **executive-level business acumen**.  
