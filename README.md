@@ -41,7 +41,7 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 ### 🔹 Short-Term Goals (Before June 2026)
 
 - [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
-- [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening
+- [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
 - [ ] **PAPA** – TCM Security's Practical AI Pentest Associate
 
 ---
