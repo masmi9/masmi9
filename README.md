@@ -40,9 +40,10 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### 🔹 Short-Term Goals (Mid-Late 2026)
 
+- [ ] **Q2 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **Q2 2026** **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q2 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q3 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **Q3 2026** **PAPA** – TCM Security's Practical AI Pentest Associate *(in progress)*
+- [ ] **Q3 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
 - [ ] **Q4 2026** **SecAI+** – CompTIA SecAI+
 
 ---
