@@ -40,17 +40,17 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### 🔹 Short-Term Goals (Mid-Late 2026)
 
-- [ ] **Q2 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
 - [ ] **Q2 2026** **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q3 2026** **PAPA** – TCM Security's Practical AI Pentest Associate *(in progress)*
-- [ ] **Q3 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q4 2026** **SecAI+** – CompTIA SecAI+
+- [ ] **Q2 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
+- [ ] **Q3 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **Q4 2026** **PAPA** – TCM Security's Practical AI Pentest Associate *(in progress)*
 
 ---
 
 ### 🔹 Mid-Term Goals (Before April 2027)
 
-- [ ] **Q1 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
+- [ ] **Q4 2026 - Q1 2027** **SecAI+** – CompTIA SecAI+
+- [ ] **Q1 2027 - Q2 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
 *By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
