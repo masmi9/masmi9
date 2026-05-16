@@ -32,41 +32,34 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 ### ✅ Completed Certifications
 
-- [x] **CEH** – Certified Ethical Hacker (EC-Council)
+- [x] **CEH** – EC-Council Certified Ethical Hacker v12
 - [x] **Foundation Level Cyber Threat Intelligence** – arcX
 - [x] **Semgrep & CodeQL Mastery** – Custom rule development, taint tracking, CI integration as well as deep static analysis query design implementation
 
 ---
 
-### 🔹 Short-Term Goals (Before June 2026)
+### 🔹 Short-Term Goals (Mid-Late 2026)
 
-- [ ] **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
-- [ ] **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **PAPA** – TCM Security's Practical AI Pentest Associate
+- [ ] **Q2 2026** **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
+- [ ] **Q2 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
+- [ ] **Q3 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **Q4 2026** **SecAI+** – CompTIA SecAI+
 
 ---
 
-### 🔹 Mid-Term Goals (Before December 2026)
+### 🔹 Mid-Term Goals (Before April 2027)
 
-- [ ] **Q2-Q3 2026 (Optional)** **CISSP** – Certified Information Systems Security Professional (ISC²)
+- [ ] **Q1 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
 *By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
-
-### 🔹 Long-Term Goals (Before 2030)
-
-- [ ] **Q1 2027** **CDP** *(Optional)* – Certified DevSecOps Professional (for CI/CD pipeline configuration mastery)
-- [ ] **Q3 2027** **OSCP** *(Optional)* – Offensive Security Certified Professional (for deep exploit mastery)
-*By mid-2027: Deep exploit mastery + leadership credibility = ready for Principal Pentester or Consultancy Manager/Lead.*
-
----
-
+### 🔹 Long-Term Goals
 ## 📅 Education Milestone (before 2030)
 
 - **MBA in Cybersecurity / Technology Management**  
    - Focus on leadership, finance, governance, and scaling security programs.  
    - Complements technical certifications (OSCP, CISSP, PMPA) with **executive-level business acumen**.  
-*By 2028: MBA + CISSP + OSCP → Strong foundation for CISO track and consultancy growth.*  
+*By 2028: MBA + CISSP → Strong foundation for CISO track and consultancy growth.*  
 
 ---
 
