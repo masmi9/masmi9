@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-I’m Malik Smith, an Application Security Engineer and Tester focused on mobile and web application security, secure code review, threat modeling, and DevSecOps automation. I specialize in identifying, validating, and helping remediate security weaknesses across modern applications while building scalable automation to strengthen secure development practices.
+I’m Malik Smith, an Application Security Engineer and Tester specializing in mobile and web application security, secure code review, threat modeling, and DevSecOps automation. My work focuses on identifying, validating, and remediating security weaknesses across modern applications while building scalable automation that helps engineering teams ship more secure software.
 
-My background is rooted in ethical hacking and hands-on application penetration testing, but my work has expanded into secure SDLC engineering, custom SAST/DAST tooling, CI/CD security, and infrastructure-as-code security. Projects like MobileMorph, an automated mobile application security framework, and BluJay, a custom static analysis engine, reflect my focus on combining offensive security knowledge with practical security engineering.
+With a foundation in ethical hacking and hands-on penetration testing, I’ve expanded into secure SDLC engineering, custom SAST/DAST tooling, CI/CD security, infrastructure-as-code security, and real-world exploit validation. My projects, including MobileMorph, an automated mobile app security framework, and BluJay, a custom static analysis engine, demonstrate my commitment to blending offensive security techniques with practical security engineering.
 
-I’m currently advancing my technical leadership path through certifications such as GitHub Advanced Security, HashiCorp Terraform Associate, and PMPA, with future focus areas in cloud security, AI application security, and CISSP-level security leadership. Long term, my goal is to bridge hands-on technical depth with strategic security program development, positioning myself to lead secure engineering initiatives and eventually move into senior security leadership.
+I’m currently strengthening my technical leadership path through GitHub Advanced Security, HashiCorp Terraform Associate, and PMPA, while continuing to build toward cloud security, AI application security, and CISSP-level security leadership. My long-term goal is to bridge code, automation, cloud, and strategy to help lead secure engineering programs at scale.
 
 ---
 
