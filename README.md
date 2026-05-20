@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-I’m Malik Smith, an Application Security Engineer & Tester with a strong focus on mobile and web application security, threat modeling, and secure DevSecOps automation. I specialize in identifying, exploiting, and remediating security weaknesses across complex systems — all while building scalable, automated pipelines for proactive defense.
+I’m Malik Smith, an Application Security Engineer and Tester focused on mobile and web application security, secure code review, threat modeling, and DevSecOps automation. I specialize in identifying, validating, and helping remediate security weaknesses across modern applications while building scalable automation to strengthen secure development practices.
 
-With a foundation rooted in ethical hacking and hands-on penetration testing, I’ve expanded my expertise into custom SAST/DAST tooling, CI/CD integration, and real-world exploit simulation. My work includes projects like MobileMorph (an automated mobile app security framework) and BluJay (a custom static analysis engine), demonstrating my commitment to combining offensive knowledge with security engineering.
+My background is rooted in ethical hacking and hands-on application penetration testing, but my work has expanded into secure SDLC engineering, custom SAST/DAST tooling, CI/CD security, and infrastructure-as-code security. Projects like MobileMorph, an automated mobile application security framework, and BluJay, a custom static analysis engine, reflect my focus on combining offensive security knowledge with practical security engineering.
 
-Driven by a continuous pursuit of mastery, I’m currently advancing through certifications such as PMPA and CRTeamer, with long-term goals of achieving CISSP and shaping security programs at the leadership level. I'm also looking to credential myself within the largest growing technology, Artificial Intelligence and Machine Learning, through the C-AI/MLPen certification. As both a technologist and future CISO, I aim to bridge the gap between code, automation, and strategic security.
+I’m currently advancing my technical leadership path through certifications such as GitHub Advanced Security, HashiCorp Terraform Associate, and PMPA, with future focus areas in cloud security, AI application security, and CISSP-level security leadership. Long term, my goal is to bridge hands-on technical depth with strategic security program development, positioning myself to lead secure engineering initiatives and eventually move into senior security leadership.
 
 ---
 
@@ -34,48 +34,50 @@ Driven by a continuous pursuit of mastery, I’m currently advancing through cer
 
 - [x] **CEH** – EC-Council Certified Ethical Hacker v12
 - [x] **Foundation Level Cyber Threat Intelligence** – arcX
-- [x] **Semgrep & CodeQL Mastery** – Custom rule development, taint tracking, CI integration as well as deep static analysis query design implementation
+- [x] **Static Analysis & Code Security Specialization** – Semgrep, CodeQL, custom rule development, taint tracking, CI/CD integration, and secure code review automation
 
 ---
 
 ### 🔹 Short-Term Goals (Mid-Late 2026)
 
 - [ ] **Q2 2026** **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q2 2026** **HashiCorp Certified: Terraform Associate** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q3 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
-- [ ] **Q4 2026** **PAPA** – TCM Security's Practical AI Pentest Associate *(in progress)*
+- [ ] **Q3 2026** **HashiCorp Certified: Terraform Associate** – IaC security foundations, secure cloud provisioning, Terraform modules, state management *(in progress)*
+- [ ] **Q4 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+
+*Strong AppSec automation, mobile security, DevSecOps, IaC, and AI security foundation; positioned for Senior AppSec, Product Security, or DevSecOps Security Engineer roles.*
 
 ---
 
-### 🔹 Mid-Term Goals (Before April 2027)
+### 🔹 Mid-Term Goals (2027)
 
-- [ ] **Q4 2026 - Q1 2027** **SecAI+** – CompTIA SecAI+
-- [ ] **Q1 2027 - Q2 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
-*By end of 2026: Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
+- [ ] **Q1 2027** **AWS Solutions Architect Associate** or **AWS Security Speciality**
+- [ ] **Q1 2027** **PAPA** – TCM Security's Practical AI Pentest Associate
+- [ ] **Q3 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
+*Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
 ### 🔹 Long-Term Goals
-## 📅 Education Milestone (before 2030)
+## 📅 Educational Milestone (2028+)
 
-- **MBA in Cybersecurity / Technology Management**  
+- **MBA in Cybersecurity / Technology Management - Fall of 2027**  
    - Focus on leadership, finance, governance, and scaling security programs.  
    - Complements technical certifications (OSCP, CISSP, PMPA) with **executive-level business acumen**.  
-*By 2028: MBA + CISSP → Strong foundation for CISO track and consultancy growth.*  
+*By 2030: MBA + CISSP → Strong foundation for CISO track and consultancy growth.*  
 
 ---
 
 ## 🎯 Focus Areas
 
-| Domain                     | Certifications                                            |
-|----------------------------|-----------------------------------------------------------|
-| **Mobile Security**        | PMPA                                                      |
-| **Web App Security**       | Semgrep, CodeQL                                           |
-| **Security Automation**    | Semgrep, CodeQL, GHAS                                     |
-| **CI/CD DevSecOps**        | CDP, GHAS                                                 |
-| **Threat Intelligence**    | arcX CTI Foundation                                       |
-| **AppSec Leadership**      | CISM, CISSP (future)                                      |
-| **Exploit Mastery**        | OSCP                                                      |
-| **Business & Strategy**    | MBA in Cybersecurity Management                           |
+| Domain                              | Certifications                                             |
+|-------------------------------------|------------------------------------------------------------|
+| **AppSec Engineering**              | GHAS, CodeQL, Semgrep                                      |
+| **DevSecOps & Automation**          | GHAS                                                       |
+| **Infrastruture-as-Code Security**  | HashiCorp Terraform Associate                              |
+| **Mobile App & AI Security**        | PMPA, PAPA                                                 |
+| **Cloud Security**                  | AWS Solutions Architect Associate / AWS Security Specialty |
+| **Threat Intelligence**             | arcX CTI Foundation                                        |
+| **Senior Leadership**               | CISSP                                                      |
+| **Business, Strategy & Governance** | MBA in Cybersecurity Management                            |
 
 ---
 
