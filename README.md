@@ -41,18 +41,18 @@ I’m currently strengthening my technical leadership path through GitHub Advanc
 ### 🔹 Short-Term Goals (Mid-Late 2026)
 
 - [ ] **Q2 2026** **GitHub Advanced Security Certification** – CodeQL, secret scanning, CI/CD hardening *(in progress)*
-- [ ] **Q3 2026** **HashiCorp Certified: Terraform Associate** – IaC security foundations, secure cloud provisioning, Terraform modules, state management *(in progress)*
-- [ ] **Q4 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **Q3 2026** **PAPA** – TCM Security's Practical AI Pentest Associate
+- [ ] **Q3-Q4 2026** **PMPA** – TCM Security's Practical Mobile Pentest Associate *(in progress)*
+- [ ] **Q4 2026** **AWS Certified Security Speciality** *(in progress)*
+
 
 *Strong AppSec automation, mobile security, DevSecOps, IaC, and AI security foundation; positioned for Senior AppSec, Product Security, or DevSecOps Security Engineer roles.*
 
 ---
 
 ### 🔹 Mid-Term Goals (2027)
-
-- [ ] **Q1 2027** **AWS Solutions Architect Associate** or **AWS Security Speciality**
-- [ ] **Q1 2027** **PAPA** – TCM Security's Practical AI Pentest Associate
-- [ ] **Q3 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
+- [ ] **Q1-Q2 2027** **CISSP** – Certified Information Systems Security Professional (ISC²)
+- [ ] **Q2 2027** **HashiCorp Certified: Terraform Associate** – IaC security foundations, secure cloud provisioning, Terraform modules, state management *(in progress)*
 *Balanced technical and leadership credentials, positioned for Principal roles or CISO track.*
 
 ---
